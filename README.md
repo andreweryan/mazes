@@ -1,7 +1,7 @@
 # Maze Solver in Python
 
 <p align="center">
-  <img src="assets/maze.png">
+  <img src="assets/maze.png", width="350" height="350">
 </p>
 
 Extending the Project:
